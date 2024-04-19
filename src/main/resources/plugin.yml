@@ -1,0 +1,7 @@
+name: Kaktusclicker
+version: 1.0.1
+main: cf.motastish.kaktusclicker.Main
+api-version: 1.19
+website: https://motastish.cf
+commands:
+  kaktusclicker:
